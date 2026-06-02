@@ -6,3 +6,5 @@ Early-stage architectural design often lacks timely feedback on annual facade-le
 Citation: Ling Mao and Changying Xiang. "Sketch2Radiation: Predicting annual solar radiation maps of buildings from architectural sketches with depth and camera pose." Building and Environment (2026): 114725.
 
 Raw files can be made available upon reasonable request.
+
+<img width="2656" height="1062" alt="Graphical abstract" src="https://github.com/user-attachments/assets/fe7542d5-37a4-45ed-99d7-5dd74b0de48b" />
